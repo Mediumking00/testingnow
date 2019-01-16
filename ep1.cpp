@@ -15,7 +15,7 @@ void reverseString(string x){
 }
 int main(){
   string s;
-  std::cout << "Enter string : ";
+  std::cout << "Enter stringxxx : ";
   std::cin >> s;
   reverseString(s);
 return 0;
